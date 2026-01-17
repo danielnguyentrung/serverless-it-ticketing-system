@@ -30,5 +30,5 @@ Note: Amazon CloudWatch is enabled to collect logs and metrics from all serverle
 
 <img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/94a94bf4-20bf-4f2b-a05b-9b1df6f5016d" />
 
-##Lessons Learned
+## Lessons Learned
 
