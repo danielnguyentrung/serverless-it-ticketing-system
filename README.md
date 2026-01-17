@@ -35,4 +35,9 @@ The ticket submission interface is deployed as a static website on Amazon S3:
 <img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/94a94bf4-20bf-4f2b-a05b-9b1df6f5016d" />
 
 ## Lessons Learned
+- Gained hands-on experience with AWS serverless services, including Lambda, SQS, SNS, SES, API Gateway, S3, and EventBridge.
+- Faced challenges validating ticket data and detecting duplicates, which improved my problem-solving and debugging skills. 
+- Developed a stronger understanding of monitoring and logging using Amazon CloudWatch to ensure operational visibility.
+- Learned that system design should always prioritize **cost-efficiency and scalability** while balancing both performance and resource usage. 
+
 
