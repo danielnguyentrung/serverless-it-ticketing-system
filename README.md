@@ -20,4 +20,8 @@ To address these challenges, I implemented a fully serverless IT ticketing syste
 6. Once the ticket has been processed, Amazon SNS is used to notify the IT team, and Amazon SES is used to notify end users.
 7. Amazon EventBridge triggers a scheduled Lambda function to scan DynamoDB for tickets exceeding a seven-day threshold and notifies the IT team of stale tickets with full ticket details using SNS.
 
+Note: Amazon Cloudwatch is enabled to collect logs and metrics from all serverless components for monitoring and operational visibility. 
 
+### Architecture Diagram
+
+![Serverless Ticket Architecture](https://github.com/user-attachments/assets/53072b4b-a55a-4339-9b4e-3172bd5bbc05)
