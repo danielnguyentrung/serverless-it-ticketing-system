@@ -4,6 +4,7 @@ A serverless IT Ticketing system built on AWS leveraging Amazon S3, API Gateway,
 ## Problem & Motivation
 
 Many IT Teams spend a significant amount of time performing manual tasks. These include reviewing the content of each ticket to understand problem specifications and urgency, 
-handling vague or incomplete ticket submissions, following up with users for missing information, and dealing with systems that are not providing concise ticket information. 
+handling vague or incomplete ticket submissions, following up with users for missing information, 
+and dealing with systems that are not providing concise ticket information. 
 
 
