@@ -28,6 +28,10 @@ Note: Amazon CloudWatch is enabled to collect logs and metrics from all serverle
 
 ### Ticket Submission Interface
 
+The ticket submission interface is deployed as a static website on Amazon S3: 
+
+[View Live Website](https://it-ticket-portal.s3.us-east-2.amazonaws.com/index.html)
+
 <img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/94a94bf4-20bf-4f2b-a05b-9b1df6f5016d" />
 
 ## Lessons Learned
