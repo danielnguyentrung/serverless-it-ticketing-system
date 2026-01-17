@@ -9,3 +9,5 @@ handling vague or incomplete ticket submissions, following up with users for mis
 ## Solution Overview
 
 To address these challenges, I implemented a fully serverless IT ticketing system on AWS. The system automates ticket validation, prioritization, notifications, and duplicate detection, helping the IT team focus on resolving issues rather than manually managing tickets, while improving overall response times and reliability.
+
+## Solution 
