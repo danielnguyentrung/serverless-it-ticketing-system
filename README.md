@@ -25,3 +25,9 @@ Note: Amazon Cloudwatch is enabled to collect logs and metrics from all serverle
 ### Architecture Diagram
 
 ![Serverless Ticket Architecture](https://github.com/user-attachments/assets/53072b4b-a55a-4339-9b4e-3172bd5bbc05)
+
+### Ticket Submission Interface
+
+<img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/94a94bf4-20bf-4f2b-a05b-9b1df6f5016d" />
+
+
